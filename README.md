@@ -1,1 +1,1 @@
-# Grammar Induction for Java
+# Grammar Induction for Automated Planning

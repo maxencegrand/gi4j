@@ -1,4 +1,4 @@
-package fr.uga.amlsi;
+package fr.uga.amlsi.gi4plan;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "TEST!" );
     }
 }
